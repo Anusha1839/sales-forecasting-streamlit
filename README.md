@@ -107,5 +107,8 @@ streamlit run app.py
 
 ## Author
 
-Anusha  
-Aspiring Data Analyst / Data Scientist  
+Dhanusha Katakam Ediga 
+Aspiring Data Analyst| Data Scientist | AI Engineer
+
+linkedIn : www.linkedin.com/in/dhanusha-k-3756ab341
+GitHub: https://github.com/Anusha1839 
